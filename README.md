@@ -1,2 +1,2 @@
-# eineitntan.github.io
+# einsteintan.github.io
 blog page
